@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "The website for Blungo created on RiotJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blungoco/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blungoco/website/issues"
+  },
+  "homepage": "https://github.com/blungoco/website#readme",
+  "dependencies": {
+    "livereload": "^0.7.0",
+    "riot": "^3.11.1"
+  }
+}
